@@ -39,7 +39,7 @@
 }
 .learn-fun{
     font-weight: 700;
-    font-size: 48px;
+    /* font-size: 48px; */
     color: #000000;
 }
 .greentxt{
@@ -89,6 +89,9 @@
 .card-footer-items-img img{
     width: 24px;
     height: 24px;
+}
+.cont-padding{
+    padding: 40px 30px;
 }
 .card-footer-items-text{
     margin: 0px 2px;
